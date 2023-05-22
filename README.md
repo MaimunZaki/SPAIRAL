@@ -21,8 +21,8 @@ pip install -r requirements.txt
 pip install easyocr
 ```
 - Run Program Test
-`python test.py`
-
+`python test.py
+`
 - Run Program
 
 `python predict_number.py model=best.pt source="VideoTest.mp4" show=True 
