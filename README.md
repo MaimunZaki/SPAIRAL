@@ -23,6 +23,8 @@ pip install easyocr
 - Run Program Test
 `python test.py
 `
+buat ngetest doang geesss
+
 - Run Program
 
 `python predict_number.py model=best.pt source="VideoTest.mp4" show=True 
